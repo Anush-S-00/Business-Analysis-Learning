@@ -1,1 +1,55 @@
+Need for Analysis:
+
+Why analysis is needed in Business Analysis?
+The need for analysis in business analysis is to understand the current business situation, identify the problems and opportunities, define clear 
+requirements, and determine best possible solutions in order to bring change, deliver value to stakeholders, and improve performance of the business
+situation.
+
+Example for the definition:
+phone - condition(repair) - problem(camera problem) - requirement(analyse root cause of the camera) - solution(repairing os exisitng or 
+change of camera) - 
+deliver change(phone is repaired) - performance(camera is working) - stakeholder(customer is happy with the service).
+
+Why analysis is needed?
+Analysis is needed to understand the business need, identify root problem, ensure the right solution is delivered. Analysis helps to align stakeholders,
+reduce risk, reduce cost, and avoids rework which helps to make decisions.
+
+What Happens If Analysis Is NOT Done?
+If analysis is not done, then
+  1. Wrong understanding of business situation,
+  2. Unclearly understood of requirements,
+  3. Proposing worng solutions,
+  4. Recurring of rework,
+  5. Increase in cost or budget,
+  6. Stakeholders are dissatisfied,
+  7. Project fails.
+
+
+Practice Question 1
+
+A company says:
+
+“We need a mobile app.”
+
+Task:
+Explain in 2–3 lines why analysis is required before building the app.
+
+Analysis is required before building the app becuase the company can't jump directly to the solution by building the app. Before building the 
+app company need to understand the business situation, understand and interpret the problems, and then proposing a solutions.
+Without following these steps and directly jumping into a solutions may cause heavy budget, rework, and leads to project failure.
+
+Practice Question 2
+List any three risks if a business skips analysis and directly starts development.
+
+  1. Cost incurred into the project or development will increase.
+  2. Resources needs to rework on the entire process and this dissatisfies the stakeholders.
+  3. The business problem may need a different solution rather than developing an app. This leads to a biased solution proposal.
+
+Practice Question 3
+Is analysis more important before or after solution development?
+Explain why in one or two lines.
+
+Analysis is more important before solution development because it helps clearly understand the business problem, 
+needs, and constraints, ensuring the right solution is selected.  
+Performing analysis after development increases the risk of rework, cost overruns, and solution failure.
 
