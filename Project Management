@@ -42,4 +42,36 @@ Features:
 3. The tool must be flexible enough for all related teams to work and access together.
 
 
+Basics of Agile Methodology
+What is Agile?
+Agile is a software development methodology. Instead of developing a software in a single life cycle, teams use agile to break the 
+process or development cycle into small and manageable iterations. Those iterations are called Sprints.
+Each Sprint has to deliver a specific outcome so that it can reviewed, tested, and gathering feedback from the customer or stakeholders as well.
+
+So each sprint has 5 stages:
+1. Planning
+2. Development
+3. Testing
+4. Review & Demo
+5. Retrospective.
+
+1. Planning: Planning in sprint is basically plan all the requirements, tasks, dependencies, and parameters of the project.
+2. Development: The actual coding starts in the development phase, where a specific tasks is picked and starts to develop it.
+3. Testing: Testing is done in the respective sprint and not at the end of the project. This helps to cintinuous testing and improving quality
+of the project.
+4. Review & Demo: In review and demo phase, tasks are reviewd by the stakeholder and teams. In this phase, team can expect an add ons or customizing
+of tasks. So these add ons again goes within the sprint and not at the end of the project.
+5.  Retrospective: Retrospective is all about the self or team imrpovement like what went wrong, what is the plus, what are the ways to 
+improve in the next sprint.
+
+What is Sprint?
+A Sprint is a fixed-length, time-boxed iteration (usually 1–4 weeks) in which a Scrum team plans, builds, tests, and delivers a 
+usable increment of software.
+
+Major frameworks in Agile is:
+1. Scrum is a time-boxed, iterative framework that uses sprints to deliver software incrementally. In scrum a specific tasks is completed before
+moving on to the next tasks.
+2. Kanban: Kanban does not use sprints it a continuous working flow where team can pick next tasks when working on a current tasks.
+
+
 
