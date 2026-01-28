@@ -73,5 +73,31 @@ Major frameworks in Agile is:
 moving on to the next tasks.
 2. Kanban: Kanban does not use sprints it a continuous working flow where team can pick next tasks when working on a current tasks.
 
+
+Here we are going to use JIRA project management tool.
+
+Important terminologies of a tool:
+
+1. User Story: User story is a simple and breif explanation of what is currently being developed. These user stories are described from the end
+user point of view.
+
+2. Epic: Epic is a large work that cannot be completed in a single sprint and is broken down into multiple user stories.
+
+3. Issues: Issues are containers for the fields that containt the data such as due date, description and so on. User story, epic, and bugs
+all are issues.
+
+4. Projects: Projects are container for issues.
+
+There are two types of projects in JIRA
+
+1. Team Managed Projects
+2. Company Managed Projects
+
+1. Team Managed Projects: These are called Next-Gen Projects but in 2021 they renamed to team managed projects.
+These projects are easy to setup and doesn't need admin to customize and smooth enough to start the work.
+
+2. Company Managed Projects: These are called classical projects and in 2021 they renamed to Company managed projects.
+These projects needs admin permission to setup and customize and makes it tougher.
+
   
 
