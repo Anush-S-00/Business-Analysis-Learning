@@ -1,1 +1,21 @@
+Business Analysis
+Business Analysis is the practice of identifying business problems, analyzing needs, and defining solutions
+that deliver value to the organization.
 
+Business Analyst acts a bridge between Business stakeholders and Technical teams
+Business analyst must ensure that the right problem is identified, right solution is derived, and does this solution actually solved the problem or not.
+
+
+Some of the common problems faced by Business Analyst
+1. Poor Communication - Business analyst acts as a brige between business teams (Stakeholder) and technical teams.
+2. Skill Gap - Business analyst analyze that the right and efficient skills are used.
+3. Lack of system clarity - Developers don't know what actually they need to build or solve.
+
+
+Software Development LifeCycle (SDLC):
+Software development lifecycle is a structured framework to plan, build, test, deploy, and maintain system software in systematic and controller manner.
+The ultimate goal of sdlc is to build high-quality software to meet or exceed customer expectations, 
+reaches completion within time and cost, and most efficient to maintain as well.
+
+The Stages of SDLC, follow:
+1.  Requirements Gathering & Analysis: 
