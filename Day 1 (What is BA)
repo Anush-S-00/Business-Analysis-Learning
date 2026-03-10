@@ -18,4 +18,22 @@ The ultimate goal of sdlc is to build high-quality software to meet or exceed cu
 reaches completion within time and cost, and most efficient to maintain as well.
 
 The Stages of SDLC, follow:
-1.  Requirements Gathering & Analysis: 
+1.  Requirements Gathering & Analysis: In this stage, the actual business problem is identified and requirements are collected from stakeholders.
+The goal of this stage is to understand what needs to be build and why.
+Certain activities are involved in this stage such as feasibility study, resource allocation, project scheduling, and cost estimation.
+
+2.  System Design: In system design stage, the technical architecture of the system is built based on the requirement gathered.
+The goal of this stage is to understand how the system will be built technically.
+
+3. Development: In development, developers start writing the actual code based on the design documentation. The physical software is created in 
+development phase. The activities that are performed in this phase are coding, code reviews, and code analysis.
+
+4. Testing: Testing ensures that the software works correctly or not and meets the requirement gathered earlier.
+The goal is to identify bugs, errors, and finding missing requirements before releasing the software or product.
+Types of testing involved are: 1. Unit Testing, 2. User Acceptance Testing, 3. System Testing, 4. Integration Testing.
+
+5. Deployment: Deployment stage is where the actual software or product is released to the production environment and making available
+for the actual end users.
+
+6. Maintenance: After deployment, the software enters into the maintenance phase where it is monitored, updated, and improved.
+The involved activities in this stage are, bug fixing, performance tuning, adding new features, and updating libraries.
