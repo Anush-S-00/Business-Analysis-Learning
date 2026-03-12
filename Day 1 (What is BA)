@@ -33,7 +33,28 @@ The goal is to identify bugs, errors, and finding missing requirements before re
 Types of testing involved are: 1. Unit Testing, 2. User Acceptance Testing, 3. System Testing, 4. Integration Testing.
 
 5. Deployment: Deployment stage is where the actual software or product is released to the production environment and making available
-for the actual end users.
 
 6. Maintenance: After deployment, the software enters into the maintenance phase where it is monitored, updated, and improved.
 The involved activities in this stage are, bug fixing, performance tuning, adding new features, and updating libraries.
+
+
+
+
+Waterfall and Agile:
+
+1. Waterfall Model: Waterfall model is a sequential, phase-by-phase approach where each phase must be completed before moving to the next phase.
+Backtracking is not permitted in waterfall model.
+
+2. Agile Model: Agile is an iterative and flexible software development approach where software is developed in smaller increments and 
+delivered in time-boxed period called Sprints. Agile delivers working feature in every 2 weeks.
+for the actual end users.
+
+Key Agile Concepts:
+1. Sprint: Sprint is a time-boxed iteration where teams must deliver incremental working feature of a software for every 2-4 weeks.
+2. Scrum: Scrum is a agile framework where teams breakdown complex projects into small manageable tasks called sprint.
+3. User Story: User story represents a feature from end-user's perspective.
+4. Product Backlog: Product backlog is prioritized list of features and enhancements. In short, the features that are needs to be carried out.
+
+Product backlog (Tamil Meaning) - தேங்கி நிற்கும் பணி.
+
+
